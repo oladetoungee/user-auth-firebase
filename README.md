@@ -36,13 +36,15 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/auth-demo.git
+   git clone https://github.com/oladetoungee/user-auth-firebase.git
 
-  2. Navigate to the project directory:
- ``` bash
-cd auth-demo
+
+2. Navigate to the project directory:
+   ```bash
+   cd user-auth-firebase.
 
 3. Install dependencies:
-```bash
 
-npm install
+   ```bash
+   npm install
+
